@@ -13,7 +13,7 @@ Passionate programmer with proven experience in C#, PHP, SQL, JavaScript. <br>I 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmkcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20today%20is%20a%20race%20between%20software%20engineers%20striving%20to%20build%20bigger%20and%20better%20idiot-proof%20programs,%20and%20the%20Universe%20trying%20to%20produce%20bigger%20and%20better%20idiots.%20So%20far,%20the%20Universe%20is%20winning.&author=Rick%20Cook))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jmkcoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
