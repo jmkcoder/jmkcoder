@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate programmer with proven experience in C#, PHP, SQL, JavaScript. <br>I am interested in Web Development as a whole.<br><br>🔭 Currently working on a Reusable CMS for any project using .NET 8<br>🌱 I’m currently studying for the Microsoft AZ-204
+Passionate programmer with proven experience in C#, PHP, SQL, JavaScript. <br>I am interested in Web Development as a whole.<br><br>🔭 Currently working on a Reusable CMS for any project using .NET 9<br>🌱 I’m currently studying for the Microsoft AZ-204
 
 
 ## 🌐 Socials:
